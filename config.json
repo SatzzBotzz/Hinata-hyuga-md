@@ -1,0 +1,16 @@
+{
+  "ownerNumber": ["6281316701742@s.whatsapp.net"],
+  "ownerName": ["Satganz Devs"],
+  "botName": "Hinata Hyuga Bot",
+  "youtubeOwner": "https://youtube.com/c/SatganzDevs",
+  "donasiDana": "081266891985",
+  "donasiGopay": "081316701742",
+  "sessionName": "SatganzDsvs",
+  "pathimg": "./media/hinata.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 2838
+  }
+}
